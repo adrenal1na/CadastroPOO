@@ -1,0 +1,22 @@
+# Arquivos de dados
+*.dat
+
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos privados do NetBeans
+nbproject/private/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
